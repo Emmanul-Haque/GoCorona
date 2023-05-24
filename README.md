@@ -12,7 +12,7 @@ heads(platforms) arranged in a single path. The scoring will depend on the time
 and distance travel. The more the heads cover will result in increasing their
 score.
 
-But no game feels interesting without any hurdles. Here the musk comes
+But no game feels interesting without any hurdles. Here the mask comes
 in play. The actor has to avoid contact with the musk arrangement, which will
 deduct from the score obtained.
 
